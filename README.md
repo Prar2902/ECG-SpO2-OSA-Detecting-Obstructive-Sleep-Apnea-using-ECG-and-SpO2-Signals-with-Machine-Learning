@@ -1,0 +1,2 @@
+# ECG-SpO2-OSA-Detecting-Obstructive-Sleep-Apnea-using-ECG-and-SpO2-Signals-with-Machine-Learning
+Obstructive sleep apnea (OSA) is a disorder in which a person faces difficulty in breathing during their sleep which results in severe daytime drowsiness, fatigue and irritability. Creating an algorithm to assess sleep apnea using the electrocardiogram (ECG) and blood oxygen saturation is the goal of this study (SpO2).
