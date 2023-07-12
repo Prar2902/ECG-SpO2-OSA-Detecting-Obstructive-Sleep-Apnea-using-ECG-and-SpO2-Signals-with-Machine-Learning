@@ -84,7 +84,7 @@ Variance_SPO2=var(p)
 
 %ECG features
 VarianceRR=var(RR1)/100
-14
+
 %Heart rate calculator
 heart_rate1=size(locs);
 heart_rate=heart_rate1(2)
@@ -110,7 +110,7 @@ sumar
 %ECG summary
 sumar1=table(RR_Interval,VarianceRR,heart_rate)
 if(count>=2)
- fprintf("The person is sufferening from sleep apnea")
+ fprintf("The person is suffering from sleep apnea")
 else
- fprintf("The person is not sufferening from sleep apnea")
+ fprintf("The person is not suffering from sleep apnea")
 end
